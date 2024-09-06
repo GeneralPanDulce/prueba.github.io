@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    background-image: url(https://wallpapers.com/images/hd/vaporwave-background-ll80rd6kihx0n06j.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+header{
+    width: 1366px;
+    height: 180px;
+    color: rgb(231, 142, 227);
+    font-size: 2rem;
+    text-align: center;
+    float: left;
+}
+
+menu{
+    width: 1366px;
+    height: auto;
+    float: left;
+    color: rgb(156, 98, 193);
+    text-align: center;
+    padding-top: 30px;
+}
+menu a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(186, 103, 237);
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 50px;
+    line-height: 60px;
+    padding: 12px 20px;
+    
+}
+
+menu a:hover {
+    background-color: rgba(185, 160, 233);
+}
+
+main{
+    background-color: rgba(220, 171, 245, 0.407);
+    width: 1366px;
+    height: auto;
+    float: left;
+}
+figure{
+    width: 366px;
+    height: auto;
+    float: left;
+    background-color: lavender;
+    margin-top: 20px ;
+    position: relative;
+}
+
+h3{
+    text-align: left;
+    font-size: 1.2rem;
+    background-color: lavender;
+    float: left;
+}
+fieldset {
+    width: 1366px;
+    height: auto;
+    border-radius: 30px;
+    float: left;
+}
+legend h2{
+ font-size: 1.5rem;
+ float: left;
+}
+p{
+    float: left;
+}
+footer{
+    width: 1366px;
+    height: 100px;
+}
+footer a{
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 50px;
+    line-height: 60px;
+    padding: 12px 20px;
+   
+}
